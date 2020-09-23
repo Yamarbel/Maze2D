@@ -1,0 +1,14 @@
+﻿  Position.cpp
+  Maze2dGenerator.cpp
+  Maze2D.cpp
+  Controller.cpp
+  Command.cpp
+c:\users\operator\desktop\consoleapplication84\consoleapplication84\controller\command.cpp(151): warning C4244: 'initializing': conversion from 'std::streamoff' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  main.cpp
+  CLI.cpp
+  mazeCompression.cpp
+  MazeContoroller.cpp
+  Generating Code...
+  Maze2D- Final Project.vcxproj -> C:\Users\Operator\Desktop\ConsoleApplication84\ConsoleApplication84\x64\Debug\Maze2D- Final Project.exe

@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication83.vcxproj, Maze2D- Final Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CLI.cpp
+  Position.cpp
+  Maze2dGenerator.cpp
+  Maze2D.cpp
+  MazeCompressor.cpp
+  mazeCompression.cpp
+  main.cpp
+  MazeContoroller.cpp
+  Controller.cpp
+  Command.cpp
+c:\users\yam\documents\visual studio 2015\projects\consoleapplication84\consoleapplication84\controller\command.cpp(132): warning C4244: 'initializing': conversion from 'std::streamoff' to 'float', possible loss of data
+  Generating Code...
+  ConsoleApplication84.vcxproj -> C:\Users\yam\Documents\Visual Studio 2015\Projects\ConsoleApplication84\Debug\ConsoleApplication84.exe
+  ConsoleApplication84.vcxproj -> C:\Users\yam\Documents\Visual Studio 2015\Projects\ConsoleApplication84\Debug\ConsoleApplication84.pdb (Full PDB)
